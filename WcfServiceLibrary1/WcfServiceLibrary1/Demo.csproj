@@ -45,10 +45,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DemoService.cs" />
+    <Compile Include="HotelData.cs" />
+    <Compile Include="HotelModel.cs" />
+    <Compile Include="IHotelFunctions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

@@ -8,26 +8,18 @@ using System.Threading.Tasks;
 
 namespace Demo
 {
-    [DataContract]
-    public class EmpData
+    public class DemoServices : IHotelFunctions
     {
-        [DataMember]
-        public string EmpName; //data members
-        [DataMember]
-        public string EmpId;
-       
-    }
-    [ServiceContract]
-    public interface IDemo
-    {
-        [OperationContract]
-        string GetEmpData(EmpData empData);
-    }
-    public class Demo : IDemo
-    {
-        public string GetEmpData(EmpData empData)
+        public List<HotelModel> GetAllhotels()
         {
-            return string.Format("Employee name {0} and emplyoee ID {1}",empData.EmpName,empData.EmpId);
+            HotelData obj = new HotelData();
+            return obj.data;
+        }
+        public List<HotelModel> GetHotelByID(int id)
+        {
+            HotelData obj = new HotelData();
+            List<HotelModel> newData = obj.data;
+            return newData;
         }
     }
 }

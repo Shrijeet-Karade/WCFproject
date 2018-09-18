@@ -5,3 +5,9 @@ C:\Users\skarade\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\De
 C:\Users\skarade\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
 C:\Users\skarade\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
 C:\Users\skarade\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\skarade\Desktop\WCFproject\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\skarade\Desktop\WCFproject\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\skarade\Desktop\WCFproject\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\skarade\Desktop\WCFproject\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\skarade\Desktop\WCFproject\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\skarade\Desktop\WCFproject\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

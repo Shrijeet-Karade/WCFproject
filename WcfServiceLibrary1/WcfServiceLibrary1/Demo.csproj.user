@@ -2,7 +2,7 @@
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <StartArguments>/client:"Client.exe"</StartArguments>
-    <StartWorkingDirectory>C:\Users\skarade\source\repos\WcfServiceLibrary1\Client\bin\Debug\</StartWorkingDirectory>
+    <StartWorkingDirectory>C:\Users\skarade\Desktop\WCFproject\WcfServiceLibrary1\Client\bin\Debug\</StartWorkingDirectory>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
